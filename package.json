@@ -1,0 +1,16 @@
+{
+  "name": "datadog-connector",
+  "version": "99.0.0",
+  "keywords": [
+    "connector"
+  ],
+  "main": "index.js",
+  "preferGlobal": false,
+  "dependencies": {
+    "async": "1.5.2",
+    "form-data": "1.0.0-rc3",
+    "json2csv": "3.2.0",
+    "mosca": "1.0.2",
+    "underscore": "1.8.3"
+  }
+}
